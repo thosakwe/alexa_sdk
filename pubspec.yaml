@@ -1,0 +1,13 @@
+name: alexa_sdk
+description: Dart bindings for the Alexa SDK.
+version: 1.0.3-dev
+author: Tobe O <thosakwe@gmail.com>
+homepage: https://github.com/thosakwe/alexa_sdk
+environment:
+  sdk: ">=1.19.0"
+dependencies:
+  func: ^0.1.0
+  js: ^0.6.1
+dev_dependencies:
+  bazel: ^0.2.2
+  test: ^0.12.15
